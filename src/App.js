@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          App with CD in cloudflare from github. Con Gus y Andres.
+          App with CD in cloudflare from github. Con Gus y Andres. 2023
         </p>
         <a
           className="App-link"
